@@ -1,0 +1,39 @@
+# Claude Code artifacts (kept out of the repo on purpose)
+.claude/
+CLAUDE.md
+.claude.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# ML artifacts (large, regeneratable)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
