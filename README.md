@@ -12,6 +12,7 @@ This is where I keep my notes and small experiments from learning mechanistic in
 
 - `notes/`: short summaries of general mech-interp papers and blog posts.
 - `01-computation-in-superposition/`: a learning project on superposition and computation in superposition.
+- `02-memorisation-and-logitlens/`: two small experiments on where memorisation lives in a tiny transformer, and where factual answers emerge across layers in GPT-2 small.
 
 More folders will land here over time.
 
@@ -37,7 +38,7 @@ The general mech-interp foundations.
 
 ### Foundational reads
 
-1. [Chris Olah et al., "Zoom In: An Introduction to Circuits"](https://distill.pub/2020/circuits/zoom-in/) (Distill, 2020). The features-and-circuits framing.
+1. ✅ [Chris Olah et al., "Zoom In: An Introduction to Circuits"](https://distill.pub/2020/circuits/zoom-in/) (Distill, 2020). The features-and-circuits framing.
 2. [Elhage et al., "A Mathematical Framework for Transformer Circuits"](https://transformer-circuits.pub/2021/framework/index.html) (Anthropic, 2021). How transformer internals compose.
-3. [Elhage et al., "Toy Models of Superposition"](https://transformer-circuits.pub/2022/toy_model/index.html) (Anthropic, 2022). Why and how networks pack more features than dimensions.
+3. ✅ [Elhage et al., "Toy Models of Superposition"](https://transformer-circuits.pub/2022/toy_model/index.html) (Anthropic, 2022). Why and how networks pack more features than dimensions.
 4. [Bricken et al., "Towards Monosemanticity: Decomposing Language Models with Dictionary Learning"](https://transformer-circuits.pub/2023/monosemantic-features/index.html) (Anthropic, 2023). The Sparse Autoencoder approach to finding features.

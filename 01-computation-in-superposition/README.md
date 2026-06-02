@@ -15,6 +15,8 @@ A learning project on superposition and computation in superposition.
 - `notes/`: short summaries of CiS-specific papers and posts. General mech-interp summaries live in the top-level `notes/`.
 - Experiment notebooks and scripts will land here as I run them.
 
+Related: the `02-memorisation-and-logitlens/` folder has my first set of toy experiments on whether the MLP is actually doing CiS-style work.
+
 Things I would like to try:
 
 1. Replicate the basic representation-superposition result from Toy Models of Superposition. Small network learning to compress N > d features. See if I can reproduce the standard plots.
@@ -31,7 +33,7 @@ CiS-specific ideas I should be able to explain after this topic:
 
 ## Reading list
 
-1. [Compressed Computation is (probably) not Computation in Superposition](https://www.lesswrong.com/posts/ZxFchCFJFcgysYsT9/compressed-computation-is-probably-not-computation-in) (LessWrong). A good first read for the topic. Even just the introduction is enough to orient.
+1. ✅ [Compressed Computation is (probably) not Computation in Superposition](https://www.lesswrong.com/posts/ZxFchCFJFcgysYsT9/compressed-computation-is-probably-not-computation-in) (LessWrong). A good first read for the topic. Even just the introduction is enough to orient.
 2. [Toward A Mathematical Framework for Computation in Superposition](https://www.lesswrong.com/posts/2roZtSr5TGmLjXMnT/toward-a-mathematical-framework-for-computation-in) (LessWrong). A readable summary of the Hanni et al. paper.
 3. [Ping pong computation in superposition](https://www.lesswrong.com/posts/g9uMJkcWj8jQDjybb/ping-pong-computation-in-superposition) (LessWrong). Another worked example.
 4. [Circuits in Superposition: Compressing many small neural networks into one](https://www.lesswrong.com/posts/roE7SHjFWEoMcGZKd/circuits-in-superposition-compressing-many-small-neural) (LessWrong). A different framing of the same idea.
