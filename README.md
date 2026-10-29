@@ -13,6 +13,7 @@ This is where I keep my notes and small experiments from learning mechanistic in
 - `notes/`: short summaries of general mech-interp papers and blog posts.
 - `01-computation-in-superposition/`: a learning project on superposition and computation in superposition.
 - `02-memorisation-and-logitlens/`: two small experiments on where memorisation lives in a tiny transformer, and where factual answers emerge across layers in GPT-2 small.
+- `03-constrained-attention-cis/`: stage two. Attention is constrained to be linear so the MLP is the only nonlinearity, then a four-criterion test checks whether it computes more ANDs than it has neurons.
 
 More folders will land here over time.
 

@@ -37,3 +37,6 @@ Thumbs.db
 .idea/
 *.swp
 *~
+
+# Private drafts (not for the public repo)
+*.local.md
